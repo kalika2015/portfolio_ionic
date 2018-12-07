@@ -1,0 +1,48 @@
+.dark-theme{
+  ion-content{
+    background-color: #141526;
+    color: #9193a8;
+  }
+
+  .header .toolbar-title{
+    color: #1cbfff;
+  }
+
+  .header .toolbar-background{
+    border-color: #ff3366;//#ff7400;
+    background-color: #141526;
+  }
+
+  .item{
+    background-color: #141526;
+    color: #9193a8;
+  }
+
+  .button-inner{
+    color: #ff3366;
+    background: transparent;
+  }
+  ion-card{
+    background-color: #141526;
+    color: #fff;
+  }
+  .card-title{
+    color: #1cbfff;
+  }
+  .card-md p, .card-wp p, .card-ios p{
+    color: #9193a8;
+  }
+  .menuImg{
+    max-width: 50%;
+    border-radius: 25%;
+  }
+  .icom{
+    font-size: 50px;
+  }
+  .list-md .item-block .item-inner{
+    border-bottom: 1px solid #9193a8;
+  }
+  .icon-md-primary, .icon-ios-primary, .icon-wp-primary{
+    color: #ff3366;
+  }
+}
